@@ -3,7 +3,7 @@ Curso gratuito de introdução à lógica de programação em Java.
 
 ## Índices
 
-### Base ( :file_folder:[...](https://github.com/FireguiQueen/logica-em-java/tree/main/src/base) )
+### Base ( [:file_folder:...](https://github.com/FireguiQueen/logica-em-java/tree/main/src/base) )
 1. Algoritmos: o que são; para que servem; analogias.
 2. Linguagem de programação: linguagem de máquina; assembly; processo de compilação; high-level vs low-level.
 3. JVM: processo de compilação; portabilidade; variáveis de ambiente do sistema operacional.
