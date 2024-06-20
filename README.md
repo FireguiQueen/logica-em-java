@@ -8,13 +8,13 @@ Curso gratuito de introdução à lógica de programação em Java.
 2. Linguagem de programação: linguagem de máquina; assembly; processo de compilação; high-level vs low-level.
 3. JVM: processo de compilação; portabilidade; variáveis de ambiente do sistema operacional.
 
-### Introdução
+### Introdução ( [:file_folder:...](https://github.com/FireguiQueen/logica-em-java/tree/main/src/introducao) )
 1. Hello World em Java: demonstração e explicações.
 2. Comentários: tipos; motivos de uso; por que evitar.
 3. Variáveis: o que são; para que servem; como funciona a alocação em memória RAM; tipos de dados primitivos.
 4. Memória volátil: como funciona; uso de software em tempo real.
 
-### Lógica
+### Lógica ( [:file_folder:...](https://github.com/FireguiQueen/logica-em-java/tree/main/src/logica) )
 1. Operadores: aritméticos; comparação e lógicos.
 2. Condicionais: if, else if, else; switch.
 3. Loops: for; while.
