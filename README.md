@@ -30,5 +30,4 @@ ___
 ___
 
 ##### Repositórios relacionados
-- [java](https://github.com/FireguiQueen/java)
-- [banco de dados](https://github.com/FireguiQueen/banco-de-dados-SQL)
+- [java](https://github.com/FireguiQueen/java) | [banco de dados](https://github.com/FireguiQueen/banco-de-dados-SQL)
