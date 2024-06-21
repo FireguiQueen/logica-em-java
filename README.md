@@ -3,8 +3,8 @@ Curso gratuito de introdução à lógica de programação em Java.
 
 ## Sobre o curso
 - Material completo se encontra no canal da [DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ).
-- **Criado por:** [william suane](https://www.linkedin.com/in/williamsuane/)
-- **Editado por:** [wildnei suane](https://www.linkedin.com/in/wildneisuane/)
+- **Criado por:** [William Suane](https://www.linkedin.com/in/williamsuane/)
+- **Editado por:** [Wildnei Suane](https://www.linkedin.com/in/wildneisuane/)
 
 
 ## Índices
