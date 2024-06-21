@@ -28,5 +28,10 @@ Curso gratuito de introdução à lógica de programação em Java.
 
 ___
 
+### Lista de exercícios:
+- em breve
+
+___
+
 ##### Repositórios relacionados
 - [java](https://github.com/FireguiQueen/java) | [banco de dados](https://github.com/FireguiQueen/banco-de-dados-SQL)
