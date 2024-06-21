@@ -1,6 +1,12 @@
 # DevDojo: Lógica em Java
 Curso gratuito de introdução à lógica de programação em Java.
 
+## Sobre o curso
+- Material completo se encontra no canal da [DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ).
+- **Criado por:** [william suane](https://www.linkedin.com/in/williamsuane/)
+- **Editado por:** [wildnei suane](https://www.linkedin.com/in/wildneisuane/)
+
+
 ## Índices
 
 ### Base ( [:file_folder:...](https://github.com/FireguiQueen/logica-em-java/tree/main/src/base) )
@@ -19,13 +25,6 @@ Curso gratuito de introdução à lógica de programação em Java.
 2. Condicionais: if, else if, else; switch.
 3. Loops: for; while.
 4. Arrays: arrays comuns e multidimensionais.
-
-___
-
-## Sobre o curso
-- Material completo se encontra no canal da [DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ).
-- **Duração do material:** 9h 19min.
-- **Duração do material + pesquisas próprias:** aproximadamente, o dobro.
 
 ___
 
