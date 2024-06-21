@@ -29,7 +29,8 @@ Curso gratuito de introdução à lógica de programação em Java.
 ___
 
 ### Lista de exercícios:
-- em breve
+- [introdução](https://github.com/FireguiQueen/logica-em-java-devdojo/tree/main/src/introducao/exercicios)
+- [lógica](https://github.com/FireguiQueen/logica-em-java-devdojo/tree/main/src/logica/00.exercicios)
 
 ___
 
