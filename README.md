@@ -22,7 +22,7 @@ Curso gratuito de introdução à lógica de programação em Java.
 
 ___
 
-## Sobre o curso
+#### Sobre o curso
 - Material completo se encontra no canal da [DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ).
 - **Duração do material:** 9h 19min.
 - **Duração do material + pesquisas próprias:** aproximadamente, o dobro.
