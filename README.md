@@ -1,8 +1,12 @@
 # 📁 Sobre o repositório
 Criei este repositório com o intuito de auxiliar falantes da língua portuguesa a iniciarem seus estudos em Java. Para isso, utilizei como base o curso "Lógica em Java" da DevDojo, adaptando e complementando o conteúdo original com explicações adicionais para facilitar a compreensão.
 
+</br>
+
 # 🎓 Sobre o curso: DevDojo - Lógica em Java
 Curso gratuito de introdução à lógica de programação em Java oferecido pela DevDojo.
+
+</br>
 
 ## 📌 Informações adicionais
 - Material completo se encontra no canal da [DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ).
