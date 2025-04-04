@@ -1,10 +1,14 @@
-# DevDojo: Lógica em Java
-Curso gratuito de introdução à lógica de programação em Java.
+# 📁 Sobre o repositório
+Criei este repositório com o intuito de auxiliar falantes da língua portuguesa a iniciarem seus estudos em Java. Para isso, utilizei como base o curso "Lógica em Java" da DevDojo, adaptando e complementando o conteúdo original com explicações adicionais para facilitar a compreensão.
 
-## Sobre o curso
+# 🎓 Sobre o curso: DevDojo - Lógica em Java
+Curso gratuito de introdução à lógica de programação em Java oferecido pela DevDojo.
+
+## 📌 Informações adicionais
 - Material completo se encontra no canal da [DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ).
 - **Criado por:** [William Suane](https://www.linkedin.com/in/williamsuane/)
 - **Editado por:** [Wildnei Suane](https://www.linkedin.com/in/wildneisuane/)
+- **Adaptação e complementação do conteúdo didático:** por mim mesmo.
 
 
 ## Índices
@@ -28,10 +32,10 @@ Curso gratuito de introdução à lógica de programação em Java.
 
 ___
 
-### Lista de exercícios:
+#### 📝 Lista de exercícios:
 - [introdução](https://github.com/FireguiQueen/logica-em-java-devdojo/tree/main/src/introducao/exercicios)
 - [lógica](https://github.com/FireguiQueen/logica-em-java-devdojo/tree/main/src/logica/00.exercicios)
 
 ___
 
-##### Repositórios relacionados: &nbsp; [java](https://github.com/FireguiQueen/java) | [banco de dados](https://github.com/FireguiQueen/banco-de-dados-SQL)
+##### 🔗 Repositórios relacionados: &nbsp; [java](https://github.com/FireguiQueen/java) | [banco de dados](https://github.com/FireguiQueen/banco-de-dados-SQL)
